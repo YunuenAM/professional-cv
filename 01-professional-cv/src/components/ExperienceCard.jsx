@@ -22,9 +22,6 @@ const ExperienceCard = () => {
                     Pinterest.es Clone
                   </li>
                   <li>
-                    Immune Video Game
-                  </li>
-                  <li>
                     Save the Axolotl
                   </li>
                 </ul>
