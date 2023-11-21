@@ -1,6 +1,10 @@
+import ExperienceCard from '../../components/ExperienceCard'
+
 const Experience = () => {
   return (
-    <div>Experience</div>
+    <>
+      <ExperienceCard />
+    </>
   )
 }
 export default Experience

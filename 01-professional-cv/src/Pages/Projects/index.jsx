@@ -1,6 +1,10 @@
+import ProjectsCard from '../../components/ProjectsCard'
+
 const Projects = () => {
   return (
-    <div>Projects</div>
+    <>
+      <ProjectsCard />
+    </>
   )
 }
 export default Projects
