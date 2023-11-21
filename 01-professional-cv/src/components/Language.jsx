@@ -1,7 +1,7 @@
 const Language = () => {
   return (
     <>
-      <h2 className='h2 text-center  m-3 '>Programming languages and Natural languages</h2>
+      <h2 className='h2 text-center  m-3 '>Programming Languages and Natural Languages</h2>
       <div className='row m-5 '>
         <div className='col-sm-6 mb-3 mb-sm-0'>
           <div className='card'>
@@ -24,9 +24,9 @@ const Language = () => {
               <hr />
               <h5 className='card-title'>French: basic professional competence</h5>
               <hr />
-              <h5 className='card-title'>Nahuatl: basic competence</h5>
+              <h5 className='card-title'>Classical Nahuatl: basic competence</h5>
               <hr />
-              <h5 className='card-title'>Maya: basic competence</h5>
+              <h5 className='card-title'>Maya Yucateco: basic competence</h5>
 
             </div>
           </div>

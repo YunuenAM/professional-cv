@@ -6,7 +6,7 @@ import Experience from '../Experience'
 import Projects from '../Projects'
 import Email from '../Email'
 import Phone from '../Phone'
-import SocialNetworking from '../SocialNetworking'
+import Socials from '../Socials'
 import NotFound from '../NotFound'
 import './App.css'
 
@@ -18,7 +18,7 @@ const AppRoutes = () => {
     { path: '/projects', element: <Projects /> },
     { path: '/email', element: <Email /> },
     { path: '/phone', element: <Phone /> },
-    { path: '/socialnetworking', element: <SocialNetworking /> },
+    { path: '/socials', element: <Socials /> },
     { path: '/*', element: <NotFound /> }
   ])
   return routes

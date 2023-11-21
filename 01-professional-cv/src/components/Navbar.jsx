@@ -3,7 +3,7 @@ const Navbar = () => {
     <>
       <nav className='navbar navbar-expand-lg bg-light' data-bs-theme='light'>
         <div className='container-fluid'>
-          <a className='navbar-brand' href='#'>Tech CV</a>
+          <a className='navbar-brand' href='/'>Tech CV</a>
           <button className='navbar-toggler' type='button' data-bs-toggle='collapse' data-bs-target='#navbarColor03' aria-controls='navbarColor03' aria-expanded='false' aria-label='Toggle navigation'>
             <span className='navbar-toggler-icon' />
           </button>
@@ -15,29 +15,26 @@ const Navbar = () => {
                 </a>
               </li>
               <li className='nav-item'>
-                <a className='nav-link' href='/school'>School</a>
+                <a className='nav-link' href='/school'>Education</a>
               </li>
               <li className='nav-item'>
-                <a className='nav-link' href='/experience'>Experience</a>
+                <a className='nav-link' href='/experience'>Experience & Skills</a>
               </li>
               <li className='nav-item'>
                 <a className='nav-link' href='/projects'>Projects</a>
               </li>
               <li className='nav-item dropdown'>
-                <a className='nav-link dropdown-toggle' data-bs-toggle='dropdown' href='#' role='button' aria-haspopup='true' aria-expanded='false'>Let's connect</a>
+                <a className='nav-link dropdown-toggle' data-bs-toggle='dropdown' href='#' role='button' aria-haspopup='true' aria-expanded='false'>Let's Connect</a>
                 <div className='dropdown-menu'>
                   <a className='dropdown-item' href='/email'>Email</a>
                   <a className='dropdown-item' href='/phone'>Phone</a>
-                  <a className='dropdown-item' href='/socialnetworking'>Social Networking</a>
+                  <a className='dropdown-item' href='/socials'>Socials</a>
                   <div className='dropdown-divider' />
 
                 </div>
               </li>
             </ul>
-            <form className='d-flex'>
-              <input className='form-control me-sm-2' type='search' placeholder='Search' />
-              <button className='btn btn-secondary my-2 my-sm-0' type='submit'>Search</button>
-            </form>
+
           </div>
         </div>
       </nav>

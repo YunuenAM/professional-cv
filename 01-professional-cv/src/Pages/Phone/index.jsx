@@ -1,6 +1,10 @@
+import PhoneCard from '../../components/PhoneCard'
+
 const Phone = () => {
   return (
-    <div>Phone</div>
+    <>
+      <PhoneCard />
+    </>
   )
 }
 export default Phone

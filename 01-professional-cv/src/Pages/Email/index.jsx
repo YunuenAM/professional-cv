@@ -1,6 +1,10 @@
+import CardEmail from '../../components/CardEmail'
+
 const Email = () => {
   return (
-    <div>Email</div>
+    <>
+      <CardEmail />
+    </>
   )
 }
 export default Email
