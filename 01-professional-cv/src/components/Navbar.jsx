@@ -10,25 +10,25 @@ const Navbar = () => {
           <div className='collapse navbar-collapse' id='navbarColor03'>
             <ul className='navbar-nav me-auto'>
               <li className='nav-item'>
-                <a className='nav-link active' href='#'>Home
+                <a className='nav-link active' href='/'>Home
                   <span className='visually-hidden'>(current)</span>
                 </a>
               </li>
               <li className='nav-item'>
-                <a className='nav-link' href='#'>School</a>
+                <a className='nav-link' href='/school'>School</a>
               </li>
               <li className='nav-item'>
-                <a className='nav-link' href='#'>Experience</a>
+                <a className='nav-link' href='/experience'>Experience</a>
               </li>
               <li className='nav-item'>
-                <a className='nav-link' href='#'>Projects</a>
+                <a className='nav-link' href='/projects'>Projects</a>
               </li>
               <li className='nav-item dropdown'>
                 <a className='nav-link dropdown-toggle' data-bs-toggle='dropdown' href='#' role='button' aria-haspopup='true' aria-expanded='false'>Let's connect</a>
                 <div className='dropdown-menu'>
-                  <a className='dropdown-item' href='#'>Email</a>
-                  <a className='dropdown-item' href='#'>Phone</a>
-                  <a className='dropdown-item' href='#'>Social Networking</a>
+                  <a className='dropdown-item' href='/email'>Email</a>
+                  <a className='dropdown-item' href='/phone'>Phone</a>
+                  <a className='dropdown-item' href='/socialnetworking'>Social Networking</a>
                   <div className='dropdown-divider' />
 
                 </div>
