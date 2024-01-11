@@ -9,8 +9,6 @@ const Language = () => {
               <h5 className='card-title'>JavaScript</h5>
               <p className='card-text' />
               <hr />
-              <h5 className='card-title'>Python</h5>
-              <hr />
 
             </div>
           </div>
@@ -25,8 +23,6 @@ const Language = () => {
               <h5 className='card-title'>French: basic professional competence</h5>
               <hr />
               <h5 className='card-title'>Classical Nahuatl: basic competence</h5>
-              <hr />
-              <h5 className='card-title'>Maya Yucateco: basic competence</h5>
 
             </div>
           </div>

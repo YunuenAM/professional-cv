@@ -35,6 +35,10 @@ const Skills = () => {
                 <li>Google Colab</li>
                 <li>OBS Studio</li>
                 <li>Visual Studio, Visual Studio Code</li>
+                <li>Cloud Computing AWS</li>
+                <li>React.js</li>
+                <li>Node.js</li>
+                <li>Mongo DB</li>
 
               </ul>
               <h5 className='card-title' />
@@ -58,6 +62,7 @@ const Skills = () => {
                 <li>organized</li>
                 <li>creative</li>
                 <li>critical thinker</li>
+
               </ul>
 
             </div>

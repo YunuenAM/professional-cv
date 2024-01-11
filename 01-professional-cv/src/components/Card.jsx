@@ -1,26 +1,26 @@
-import photo from '../img/photo.jpeg'
-import nlp from '../img/nlp.webp'
+import photo from '../img/yunuen.jpeg'
+import design from '../img/design.jpg'
 import desk from '../img/desk.png'
 const Card = () => {
   const cardData = [
     {
       id: 1,
-      imgSrc: nlp,
-      title: ' Linguist',
-      content: 'I am interested in the link between language, computational development and conversational design in voice assistants and chatbots with artificial intelligence support'
+      imgSrc: design,
+      title: '  UX/UI Developer',
+      content: "My fascination with this field lies in the unique ability to merge creativity and functionality to improve users' digital experience. I am motivated by the idea of ​​creating products that are not only visually appealing, but will also provide effective and meaningful solutions to user challenges"
     },
 
     {
       id: 2,
       imgSrc: photo,
-      title: 'Frontend UI/UX | Linguist',
-      content: "Hi 👋, I am Yunuen Sarasuadi Acosta Meza from Hidalgo, MX. I'm a full stack developer with a degree in linguistics. I am focused on Frontend UI/UX. I really enjoy web design and creating good communication solutions"
+      title: 'Frontend',
+      content: "Hi 👋, I am Yunuen Sarasuadi Acosta Meza from Hidalgo, MX. I'm a full stack developer. I am focused on Frontend UX/UI. I really enjoy web design and creating good communication solutions"
     },
     {
       id: 3,
       imgSrc: desk,
-      title: 'JavaScript Dev',
-      content: "My goal is to develop software while applying clean code principles. 🌱 I'm currently learning Python and .NET💬 Ask me about: MERN Stack, GitHub and Voice Assistants"
+      title: 'React Dev',
+      content: "My goal is to develop software while applying clean code principles. 🌱 I'm currently learning Typescript💬 Ask me about: JavaScript, React.js, Responsive Design and UX/UI development"
     }
 
   ]

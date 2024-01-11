@@ -7,7 +7,7 @@ const ExperienceCard = () => {
           <div className='col-sm-6 mb-3 mb-sm-0'>
             <div className='card'>
               <div className='card-body'>
-                <h5 className='card-title'>-developed projects for portfolio during the Dev.f coding bootcamp</h5>
+                <h5 className='card-title'>-developed projects for portfolio during the Dev.f coding bootcamp (1 year)</h5>
                 <ul>
                   <li>
                     Bakery Ecommerce Website
@@ -26,9 +26,19 @@ const ExperienceCard = () => {
                   </li>
                 </ul>
                 <hr />
-                <h5 className='card-title'>-co-developed video game currently available in the Microsoft App Store</h5>
-                <hr />
-                <h5 className='card-title'>-contributed research to the project PAPIIT IA401419 Reference Acoustic Values For Forensic Analysis of Voice Recordings</h5>
+                <h5 className='card-title'>-developed for the Company Jikuri Interactive (2 years)</h5>
+                <ul>
+                  <li>
+                    co-developed video games
+                  </li>
+                  <li>
+                    graphic design and development
+                  </li>
+                  <li>
+                    co-created a video game currently available in the Microsoft AppStore
+                  </li>
+                </ul>
+                <h5 className='card-title'> </h5>
                 <h5 className='card-title' />
 
               </div>
@@ -37,9 +47,13 @@ const ExperienceCard = () => {
           <div className='col-sm-6'>
             <div className='card'>
               <div className='card-body'>
-                <h5 className='card-title'>-participated in workshop: Voice, Technology and Various Applications (Feria Mexicanas para el Futuro,  IIMAS,2019)</h5>
+                <h5 className='card-title'>-Bilingual Customer Service Representative for TKM Customer Solutions (1 year)</h5>
+                <ul>
+                  <li>
+                    -I collaborated in DiDi App Customer Services by writing responses by email and chat to drivers and passengers who requested clarification about promotions or questions about the App in general, as well as answering calls in Spanish, French and English.
+                  </li>
+                </ul>
                 <hr />
-                <h5 className='card-title'>-taught multiple online forensic phonetics course to professional students from a variety of countries throughout LATAM. Student professions included Ph.D.s, police detectives, professional instructors, etc. etc.</h5>
 
               </div>
             </div>
